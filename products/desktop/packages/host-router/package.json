@@ -25,7 +25,7 @@
     "@posthog/workspace-server": "workspace:*",
     "@trpc/client": "catalog:",
     "inversify": "catalog:",
-    "zod": "^4.4.3"
+    "zod": "^4.6.6"
   },
   "peerDependencies": {
     "@tanstack/react-query": "catalog:",
@@ -39,6 +39,6 @@
     "@types/react": "catalog:",
     "react": "catalog:",
     "typescript": "catalog:",
-    "vitest": "^4.1.8"
+    "vitest": "^5.0.5"
   }
 }

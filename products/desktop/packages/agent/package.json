@@ -174,7 +174,7 @@
     "msw": "^2.12.7",
     "tsup": "^8.5.1",
     "typescript": "^5.5.0",
-    "vitest": "^4.1.8"
+    "vitest": "^5.0.5"
   },
   "dependencies": {
     "@agentclientprotocol/sdk": "1.1.0",
@@ -195,7 +195,7 @@
     "@opentelemetry/semantic-conventions": "^1.28.0",
     "@types/jsonwebtoken": "^9.0.10",
     "commander": "^14.0.2",
-    "fflate": "^0.8.2",
+    "fflate": "^0.8.3",
     "hono": "^4.11.7",
     "jsonwebtoken": "^9.0.2",
     "lru-cache": "^11.1.0",
@@ -203,7 +203,7 @@
     "@modelcontextprotocol/sdk": "1.29.0",
     "uuid": "13.0.0",
     "yoga-wasm-web": "^0.3.3",
-    "zod": "^4.2.0"
+    "zod": "^4.6.6"
   },
   "files": [
     "dist/**/*",
